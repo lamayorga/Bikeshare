@@ -222,7 +222,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df)
 
-        print("Would you like see five rows of data? Enter yes or no ")
+        print("Would you like see the first five rows of data? Enter yes or no ")
         display_data = input()
         display_data = display_data.lower()
 
