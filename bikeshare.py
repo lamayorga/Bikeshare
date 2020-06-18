@@ -230,7 +230,7 @@ def main():
         while display_data == 'yes':
             """ To display few rows of data for user view """
             print(df[:i])
-            print("Would you like to see five more rows of data ?? Enter yes or no ")
+            print("Would you like to see the next five rows of data ?? Enter yes or no ")
             i *= 2
             display_data = input()
             display_data = display_data.lower()
