@@ -23,7 +23,7 @@ The program was written using:
 * Python 3
 * NumPy and Pandas installed using Anaconda
 
-### Run the script
+### How to Use
 
 1. Download the bikeshare folder onto computer
 2. Open terminal
